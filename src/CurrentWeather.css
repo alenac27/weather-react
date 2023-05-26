@@ -1,0 +1,18 @@
+#description {
+  text-align: left;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  top: 40px;
+}
+
+#description::first-letter {
+  text-transform: capitalize;
+}
+
+img {
+  position: relative;
+  max-width: 150px;
+  top: 30px;
+  text-align: center;
+}

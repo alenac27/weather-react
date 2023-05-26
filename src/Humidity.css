@@ -1,0 +1,17 @@
+.additional-weather-data {
+  border-radius: 30px;
+  text-align: center;
+  background: white;
+  padding: 20px;
+  box-shadow: 2px 5px 5px #7f8da4;
+  margin: 10px;
+}
+
+.humidity-title {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.humidity-percent {
+  font-size: 32px;
+}

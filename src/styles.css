@@ -1,0 +1,22 @@
+.weather-app {
+  max-width: 1200px;
+  margin: 50px auto;
+  padding: 50px;
+  border-radius: 30px;
+  font-family: "Poppins", sans-serif;
+  color: #19314d;
+  background: linear-gradient(#dde6ed, #f3f2ec);
+  position: relative;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+#current-temperature {
+  padding: 20px;
+}
