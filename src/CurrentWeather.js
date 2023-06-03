@@ -2,7 +2,7 @@ import React from "react";
 import "./CurrentWeather.css";
 import Sunny from "./sunny.png";
 
-export default function Footer() {
+export default function CurrentWeather(props) {
   return (
     <div className="col-lg-3">
       <div>
